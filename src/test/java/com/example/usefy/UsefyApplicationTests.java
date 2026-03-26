@@ -16,5 +16,6 @@ class UsefyApplicationTests {
     @Test
     void contextLoads() {
         // Просто проверяем, что контекст загружается
+
     }
 }
