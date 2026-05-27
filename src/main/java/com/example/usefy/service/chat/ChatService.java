@@ -11,7 +11,7 @@ import java.util.List;
 
 public interface ChatService {
 
-    // ============ СУЩЕСТВУЮЩИЕ МЕТОДЫ ============
+    //  ============ СУЩЕСТВУЮЩИЕ МЕТОДЫ ============
 
     ChatSession createChat(User user, String title);
 
