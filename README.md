@@ -96,7 +96,7 @@
    Перейди по адресу: [http://localhost:8080](http://localhost:8080)
 
 ### 🔑 **Где взять API ключ Gemini**
-1. Перейди на [makersuite.google.com/app/apikey](https://makersuite.google.com/app/apikey)
+1. Перейди на [makersuite.google.com](https://makersuite.google.com)
 2. Войди в Google аккаунт
 3. Нажми **"Create API Key"**
 4. Скопируй ключ и добавь в `.env`
